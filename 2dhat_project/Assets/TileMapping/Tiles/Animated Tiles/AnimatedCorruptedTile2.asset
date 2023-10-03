@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
-  m_Name: AnimatedCorruptedTile1
+  m_Name: AnimatedCorruptedTile2
   m_EditorClassIdentifier: 
   m_AnimatedSprites:
-  - {fileID: -6076065925754670426, guid: f158df26e594d1b42b51eea9fe1b1984, type: 3}
-  - {fileID: -2665013462473649628, guid: f158df26e594d1b42b51eea9fe1b1984, type: 3}
-  - {fileID: 4466780716907612453, guid: f158df26e594d1b42b51eea9fe1b1984, type: 3}
-  - {fileID: 6522251007206638573, guid: f158df26e594d1b42b51eea9fe1b1984, type: 3}
+  - {fileID: -8229091110289179707, guid: f158df26e594d1b42b51eea9fe1b1984, type: 3}
+  - {fileID: -5720669192706917941, guid: f158df26e594d1b42b51eea9fe1b1984, type: 3}
+  - {fileID: -4476251193684948283, guid: f158df26e594d1b42b51eea9fe1b1984, type: 3}
+  - {fileID: 2159158867610246814, guid: f158df26e594d1b42b51eea9fe1b1984, type: 3}
   m_MinSpeed: 3
   m_MaxSpeed: 3
   m_AnimationStartTime: 0
