@@ -3,12 +3,12 @@
     "maps": [
         {
             "name": "Player",
-            "id": "f1ba1f56-4fdc-4a87-b0f0-8d4dfd2ba6e4",
+            "id": "d03e73f4-121f-4eb5-b0ba-64d4dabd78c1",
             "actions": [
                 {
                     "name": "Movement",
                     "type": "Value",
-                    "id": "d080acad-6100-40ac-b498-aa4408a14fde",
+                    "id": "483c0a9a-df1b-405a-8abd-515648f75a16",
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
@@ -18,7 +18,7 @@
             "bindings": [
                 {
                     "name": "",
-                    "id": "9c158e8a-1132-45b4-b3f8-7274e082d20b",
+                    "id": "155935d5-a425-4c31-8e6c-24fca9cc516f",
                     "path": "<Gamepad>/leftStick",
                     "interactions": "",
                     "processors": "",
@@ -29,7 +29,7 @@
                 },
                 {
                     "name": "WASD",
-                    "id": "4b378ca1-daf4-44c0-a845-bf505cf3fb37",
+                    "id": "120014dc-479d-4d33-960f-6e1ded20a59e",
                     "path": "2DVector",
                     "interactions": "",
                     "processors": "",
@@ -40,8 +40,8 @@
                 },
                 {
                     "name": "up",
-                    "id": "a16feb1d-537c-4caa-ae94-1bd9106d0491",
-                    "path": "",
+                    "id": "31625bde-2606-4f37-94c5-f404e72a92cf",
+                    "path": "<Keyboard>/w",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -51,8 +51,8 @@
                 },
                 {
                     "name": "down",
-                    "id": "96f016a3-f45c-4a2c-b24a-25ad64a7186b",
-                    "path": "",
+                    "id": "461a767c-1a26-4d6a-972e-b33ee8033872",
+                    "path": "<Keyboard>/s",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -62,8 +62,8 @@
                 },
                 {
                     "name": "left",
-                    "id": "69cb9619-528d-4535-990a-15f3ce8e5571",
-                    "path": "",
+                    "id": "0d0d9e77-84a2-49cc-b82e-21054be7c7d7",
+                    "path": "<Keyboard>/a",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -73,8 +73,8 @@
                 },
                 {
                     "name": "right",
-                    "id": "13a6bfa3-8a0e-41b2-8e68-b2002525ca50",
-                    "path": "",
+                    "id": "496c08fe-b023-4a22-ac2f-e9f9704d46db",
+                    "path": "<Keyboard>/d",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
